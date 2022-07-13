@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ 
+    list-style-type: none;
+}
+
+.mainContainer{
+    display: flex;
+    width: 100%;
+   margin-top: 60px;
+  
+}
+.smallContainer{
+    width: 95%;
+    margin: auto;
+    padding: 40px;
+    background: url(./img/background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+    box-shadow: 1px 1px 4px #b1b1b140;
+    position: relative;
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.Eid-time{
+    background:#ffffff9f ;
+    width: 100%;
+    padding: 25px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 4px #00000052;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.Eid-time h2{
+    font-size: 35px;
+    color: #755c2fec;
+    text-transform: uppercase;
+    /* margin-bottom: 18px; */
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.Eid-time  h3{
+    color: #b6711c;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight:bolder;
+    margin-top: 15px;
+  
+}
+.Eid-time h4{
+    font-size: 25px;
+    margin-top: 15px;
+    width: 100%;
+    margin-bottom: 15px;
+    color: #54472d;
+}
+.Eid-time h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+    width: 100%;
+}
+.Eid-time ul{
+    width: 100%;
+    
+}
+.ulclass{
+    align-items: center;
+    margin: 0 auto;
+
+} 
+.Eid-time ul li{
+    background: rgba(255, 255, 255, 0.604);
+    padding: 10px;
+   
+    font-size: 25px;
+    margin-bottom: 10px;
+    align-items: center;
+    border-radius: 10px;
+    border: 1px solid #e6e6e6;
+    text-transform: capitalize;
+
+}
+.Eid-time ul li b{
+    color: #4b4b4b;
+    font-weight: 600;
+}
+
+
+/* footer */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
